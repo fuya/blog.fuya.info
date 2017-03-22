@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Blog Fuya Info</title>
-  <subtitle>Hexoで作ったのがよくわかるBlog</subtitle>
+  <title>超日報</title>
+  <subtitle>Hexoで作ったのがよくわかる。全然更新しません</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://fuya.info/"/>
